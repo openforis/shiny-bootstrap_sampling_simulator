@@ -9,8 +9,9 @@
 # More about applied method at  http://www.fs.fed.us/emc/rig/Plot-GEM/
 ################################################################
 
-library(shinydashboard)
-library(DT)
+library('shinydashboard')
+library('DT')
+library('markdown')
 
 
 ui <- function(request) {

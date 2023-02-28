@@ -9,9 +9,9 @@
 # More about applied method at  http://www.fs.fed.us/emc/rig/Plot-GEM/
 ################################################################
 
-library(ggplot2)
-library(summarytools)
-library(dplyr)
+library('ggplot2')
+library('summarytools')
+library('dplyr')
 
 source("Run-bootstrap.R")
 
